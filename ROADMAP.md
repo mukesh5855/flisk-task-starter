@@ -1,7 +1,8 @@
 
-# Vision
+## Vision
 
-Flisk aims to become the simplest and most reliable local development platform providing a unified development experience.
+Flisk should become the most reliable, developer-friendly local development platform for modern multi-service applications and AI-assisted engineering teams. Its focus should be making any existing application easy to run, inspect and develop locally through one consistent interface, while enabling coding agents to work independently and safely.
+
 
 ## Next 6 months
 
